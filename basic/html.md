@@ -10,8 +10,8 @@ Lorem ipsum dolor sit amet
 
 ## Referensi Belajar
 
-Lorem ipsum dolor sit amet
+[HTML Dasar Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
 
 ## Latihan
 
-Lorem ipsum dolor sit amet
+Membuat website sederhana menggunakan HTML
