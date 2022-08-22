@@ -6,15 +6,26 @@
 - Client Side Routing
 - Data Fetching
 - State Management
+  - State
+  - Side Effect
+  - Reducer
+  - State Machine
 
-## 2. React
+## 2. Productionize
+
+- Modules
+- Compiler
+- Bundler
+- Static Typing
+
+## 3. React
 
 To be added
 
-## 3. Performance
+## 4. Performance
 
 To be added
 
-## 4. Cross Platform UI
+## 5. Cross Platform UI
 
 To be added
