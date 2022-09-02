@@ -9,9 +9,8 @@
   - [Layouting](static-site/css/layouting.md)
   - [Flexbox](static-site/css/flexbox.md)
 - Javascript
-  - Fundamental
-  - Manipulasi DOM
-  - Storage
+  - [Fundamental](static-site/javascript/fundamental.md)
+  - [DOM](static-site/javascript/dom.md)
 
 ## 2. Dynamic Site
 
