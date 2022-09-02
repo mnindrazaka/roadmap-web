@@ -7,4 +7,5 @@
 - [Membuat card](https://getbootstrap.com/docs/5.2/components/card)
 - [Membuat positioned badge](https://getbootstrap.com/docs/5.2/components/badge/#positioned)
 - [Membuat navbar](https://getbootstrap.com/docs/5.2/components/navbar)
+- [Membuat tooltip](https://getbootstrap.com/docs/5.2/components/tooltips/)
 - [Membuat landing page](https://startbootstrap.com/themes/landing-pages)

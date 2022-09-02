@@ -4,6 +4,11 @@
 
 ## Latihan
 
+- [Membuat accordion](https://getbootstrap.com/docs/5.2/components/accordion/)
+- [Membuat collapse](https://getbootstrap.com/docs/5.2/components/collapse/)
+- [Membuat dropdown](https://getbootstrap.com/docs/5.2/components/dropdowns/)
+- [Membuat modal](https://getbootstrap.com/docs/5.2/components/modal/)
+- [Membuat popover](https://getbootstrap.com/docs/5.2/components/popovers/)
 - Membuat program untuk menghitung luas bangun
 - Membuat todolist
 - Membuat program POS
