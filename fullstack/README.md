@@ -15,6 +15,10 @@
 ## 2. Dynamic Site
 
 - Golang
-  - Fundamental
+  - [Fundamental](dynamic-site/golang/fundamental.md)
+  - [Web Server](dynamic-site/golang/web-server.md)
 - Database
+  - [Fundamental](dynamic-site/database/fundamental.md)
+  - [Golang Database](dynamic-site/database/golang-database.md)
+- API
   - Fundamental
