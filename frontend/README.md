@@ -10,6 +10,7 @@
   - Side Effect
   - Reducer
   - State Machine
+- Server Side Rendering
 
 ## 2. Productionize
 
