@@ -10,28 +10,41 @@
   - Side Effect
   - Reducer
   - State Machine
+
+## 2. Node.js
+
+- Fundamental
+- HTTP Server
 - Server Side Rendering
 
-## 2. Productionize
+## 3. Modularization
 
-- Modules
-- Compiler
+- Script
+- IIFE
+- CommonJS
+- AMD
+- UMD
+- ES Modules
+- Transpiler
 - Bundler
-- Static Typing
 
-## 3. React
-
-To be added
-
-## 4. Performance
+## 4. Static Typing
 
 To be added
 
-## 5. Hybrid Mobile Development
+## 5. React
+
+To be added
+
+## 6. Performance
+
+To be added
+
+## 7. Hybrid Mobile Development
 
 - Webview
 - React Native
 
-## 6. Cross Platform Development
+## 8. Cross Platform Development
 
 To be added
