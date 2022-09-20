@@ -7,7 +7,7 @@
 - CSS
   - [Fundamental](static-site/css/fundamental.md)
   - [Layouting](static-site/css/layouting.md)
-  - [Flexbox](static-site/css/flexbox.md)
+  - Media Query
 - Javascript
   - [Fundamental](static-site/javascript/fundamental.md)
   - [DOM](static-site/javascript/dom.md)
