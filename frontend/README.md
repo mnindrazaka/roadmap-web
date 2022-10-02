@@ -38,7 +38,25 @@ To be added
 
 ## 6. Performance
 
-To be added
+- Load time performance
+  - Fundamental
+    - Core web vital
+  - Measurement
+    - Chrome Light House Tab
+    - Chrome Network Tab
+    - Chrome Performance Tab
+  - Optimization
+    - Largest Contentful Paint (LCP)
+    - First Input Delay (FID)
+    - Cumulative Layout Shift (CLS)
+  - Common load time issue
+- Rendering performance
+  - Fundamental
+    - Browser rendering performance
+  - Measurement
+    - Chrome Performance Tab
+  - Optimization
+  - Common rendering issue
 
 ## 7. Hybrid Mobile Development
 
