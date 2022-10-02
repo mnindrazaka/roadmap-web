@@ -41,6 +41,7 @@ To be added
 - Load time performance
   - Fundamental
     - Core web vital
+    - Critical Rendering Path
   - Measurement
     - Chrome Light House Tab
     - Chrome Network Tab
